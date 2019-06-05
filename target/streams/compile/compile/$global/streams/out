@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/nishant/testcase/00556642/casbah/casbah_tutorial/CasbahTest.scala:14:32: object initializeUnorderedBulkOperation is not a member of package collection[0m
+[0m[[0m[31merror[0m] [0m[0m      val builder = collection.initializeUnorderedBulkOperation[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
